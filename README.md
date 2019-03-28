@@ -4,18 +4,20 @@
 * objects
 * constructors
 * object prototypes
+* object methods
+* arrays
 * IIFEs
-* event delgation
+* event delagation
 * string and number manipulation
 * DOM manipulation 
 
-## Budget Controller
+### Budget Controller
 
-## UI Controller
+### UI Controller
 
-## Global Controller
+### Global Controller
 
-# to do
-- add csv import/export features
-- visualize budget on different charts
-- categorize incomes and expenses
+## to do
+* add csv import/export features
+* visualize budget on different charts
+* categorize incomes and expenses
