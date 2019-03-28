@@ -1,7 +1,13 @@
-# budget-app
-Budget Application in Vanilla JavaScript
+# Budget Application in Vanilla JavaScript
 
-JavaScript concepts: objects, constructors, object prototypes, IIFEs, event delgation, string and number manipulation, DOM manipulation 
+## JavaScript concepts: 
+* objects
+* constructors
+* object prototypes
+* IIFEs
+* event delgation
+* string and number manipulation
+* DOM manipulation 
 
 ## Budget Controller
 
