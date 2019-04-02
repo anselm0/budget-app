@@ -7,7 +7,7 @@
 * object methods
 * arrays
 * IIFEs
-* event delagation
+* event delegation
 * string and number manipulation
 * DOM manipulation 
 
